@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ProgettoLaboratorio.dir/main.cpp.o CMakeFiles/ProgettoLaboratorio.dir/Register.cpp.o CMakeFiles/ProgettoLaboratorio.dir/Activity.cpp.o  -o ProgettoLaboratorio 
